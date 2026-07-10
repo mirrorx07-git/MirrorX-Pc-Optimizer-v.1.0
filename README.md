@@ -12,7 +12,6 @@ Boost your PC performance with a single click
 
 Features • Installation • Usage • Menu Options • FAQ
 
-</div>
 📖 Overview
 MirrorX PC Optimizer is a professional-grade Windows batch utility designed to clean, optimize, and speed up your PC. Built with compatibility in mind, it works flawlessly across Windows 7, 8, 10, and 11 — including the latest builds where legacy tools like wmic are deprecated.
 
@@ -33,7 +32,7 @@ Whether you need a quick one-click cleanup or a detailed optimization report, Mi
 🛡️ Safe Operations — Only removes junk files, never system files
 
 🖥️ System Requirements
-↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
 Requirement Details:
 OS - Windows 7, 8, 8.1, 10, 11
 Architecture - x86 / x64 / ARM64
@@ -284,8 +283,6 @@ A: It should work on Windows Server 2012 R2 and newer, but it's designed and tes
 Q: Why does it need admin privileges?
 A: To clean protected system folders like Windows\Temp, Prefetch, and manage services.
 
-<div align="center">
 Made with ❤️ by MirrorX Team
 ⬆ Back to Top
 
-</div>
