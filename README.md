@@ -353,7 +353,7 @@ A: To clean protected system folders like `Windows\Temp`, `Prefetch`, and manage
 
 <div align="center">
 
-### Made with ❤️ by MirrorX Team
+### Made with ❤️ by MirrorX
 
 **⬆ [Back to Top](#-mirrorx-pc-optimizer-v10)**
 
