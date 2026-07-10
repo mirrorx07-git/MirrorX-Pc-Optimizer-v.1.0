@@ -66,7 +66,7 @@ Whether you need a quick one-click cleanup or a detailed optimization report, Mi
 ### Method 2: Clone from Repository
 
 ```bash
-git clone https://github.com/yourusername/mirrorx-optimizer.git
+git clone https://github.com/mirrorx07-git/MirrorX-Pc-Optimizer-v.1.0
 cd mirrorx-optimizer
 ```
 
@@ -166,14 +166,14 @@ C:\Users\<YourName>\Desktop\MirrorX_Report.txt
 ============================================
 Report Generated: 2025-01-15 14:32:10
 Computer Name   : DESKTOP-XYZ123
-User            : Sathish
+User            : MirrorX
 ============================================
 
 SECTION 1 - SYSTEM INFO (BEFORE)
   Total RAM (MB) : 16384
   Free  RAM (MB) : 8192
   Disk Usage:
-    Drive C:  |  Free: 120.45 GB  |  Total: 465.76 GB
+    Drive C:  |  Free: 411.45 GB  |  Total: 465.76 GB
 
 ...
 
@@ -310,10 +310,10 @@ MIT License - Free to use, modify, and distribute
 
 ## 👨‍💻 Author
 
-**MirrorX Team**
+**MirrorX**
 
-- 🌐 Website: [mirrorx.dev](#)
-- 📧 Email: support@mirrorx.dev
+- 📧 Email: mirrorxofficial.07@gmail.com
+- 🦋 Instagram: _ mirror_.x
 - 💬 Support: [GitHub Issues](#)
 
 ---
