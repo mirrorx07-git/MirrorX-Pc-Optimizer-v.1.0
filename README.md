@@ -1,6 +1,5 @@
 # 🚀MirrorX PC Optimizer v1.0
 
-<div align="center">
 Version
 Platform
 License
